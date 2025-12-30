@@ -1,0 +1,146 @@
+NFL
+
+MLB
+
+NHL
+
+and 
+NBA
+
+Team
+
+1. Arizona Cardinals  
+2. Atlanta Falcons  
+3. Baltimore Ravens  
+4. Buffalo Bills  
+5. Carolina Panthers  
+6. Chicago Bears  
+7. Cincinnati Bengals  
+8. Cleveland Browns  
+9. Dallas Cowboys  
+10. Denver Broncos  
+11. Detroit Lions  
+12. Green Bay Packers  
+13. Houston Texans  
+14. Indianapolis Colts  
+15. Jacksonville Jaguars  
+16. Kansas City Chiefs  
+17. Las Vegas Raiders  
+18. Los Angeles Chargers  
+19. Los Angeles Rams  
+20. Miami Dolphins  
+21. Minnesota Vikings  
+22. New England Patriots  
+23. New Orleans Saints  
+24. New York Giants  
+25. New York Jets  
+26. Philadelphia Eagles  
+27. Pittsburgh Steelers  
+28. San Francisco 49ers  
+29. Seattle Seahawks  
+30. Tampa Bay Buccaneers  
+31. Tennessee Titans  
+32. Washington Commanders  
+
+---
+
+### **MLB Teams**  
+1. Arizona Diamondbacks  
+2. Atlanta Braves  
+3. Baltimore Orioles  
+4. Boston Red Sox  
+5. Chicago Cubs  
+6. Chicago White Sox  
+7. Cincinnati Reds  
+8. Cleveland Guardians  
+9. Colorado Rockies  
+10. Detroit Tigers  
+11. Houston Astros  
+12. Kansas City Royals  
+13. Los Angeles Angels  
+14. Los Angeles Dodgers  
+15. Miami Marlins  
+16. Milwaukee Brewers  
+17. Minnesota Twins  
+18. New York Mets  
+19. New York Yankees  
+20. Oakland Athletics  
+21. Philadelphia Phillies  
+22. Pittsburgh Pirates  
+23. San Diego Padres  
+24. San Francisco Giants  
+25. Seattle Mariners  
+26. St. Louis Cardinals  
+27. Tampa Bay Rays  
+28. Texas Rangers  
+29. Toronto Blue Jays  
+30. Washington Nationals  
+
+---
+
+### **NHL Teams**  
+1. Anaheim Ducks  
+2. Arizona Coyotes  
+3. Boston Bruins  
+4. Buffalo Sabres  
+5. Calgary Flames  
+6. Carolina Hurricanes  
+7. Chicago Blackhawks  
+8. Colorado Avalanche  
+9. Columbus Blue Jackets  
+10. Dallas Stars  
+11. Detroit Red Wings  
+12. Edmonton Oilers  
+13. Florida Panthers  
+14. Los Angeles Kings  
+15. Minnesota Wild  
+16. Montreal Canadiens  
+17. Nashville Predators  
+18. New Jersey Devils  
+19. New York Islanders  
+20. New York Rangers  
+21. Ottawa Senators  
+22. Philadelphia Flyers  
+23. Pittsburgh Penguins  
+24. San Jose Sharks  
+25. Seattle Kraken  
+26. St. Louis Blues  
+27. Tampa Bay Lightning  
+28. Toronto Maple Leafs  
+29. Vancouver Canucks  
+30. Vegas Golden Knights  
+31. Washington Capitals  
+
+---
+
+### **NBA Teams**  
+1. Atlanta Hawks  
+2. Boston Celtics  
+3. Brooklyn Nets  
+4. Charlotte Hornets  
+5. Chicago Bulls  
+6. Cleveland Cavaliers  
+7. Dallas Mavericks  
+8. Denver Nuggets  
+9. Detroit Pistons  
+10. Golden State Warriors  
+11. Houston Rockets  
+12. Indiana Pacers  
+13. Los Angeles Clippers  
+14. Los Angeles Lakers  
+15. Memphis Grizzlies  
+16. Miami Heat  
+17. Milwaukee Bucks  
+18. Minnesota Timberwolves  
+19. New Orleans Pelicans  
+20. New York Knicks  
+21. Oklahoma City Thunder  
+22. Orlando Magic  
+23. Philadelphia 76ers  
+24. Phoenix Suns  
+25. Portland Trail Blazers  
+26. Sacramento Kings  
+27. San Antonio Spurs  
+28. Toronto Raptors  
+29. Utah Jazz  
+30. Washington Wizards  
